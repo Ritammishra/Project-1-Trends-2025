@@ -18,6 +18,7 @@ html, css
 ***
 ![images](thumbnail.png)
 
+[Live Preview](https://project-1-trends-2025.netlify.app/)
 ## What I learn
 ***
 - css positioning
